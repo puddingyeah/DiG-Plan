@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use DiG-Plan, please cite our paper."
+title: "DiG-Plan"
+type: software
+authors:
+  - family-names: Li
+    given-names: Yansi
+  - family-names: Zhang
+    given-names: Zhuosheng
+repository-code: "https://github.com/puddingyeah/DiG-Plan"
+url: "https://arxiv.org/abs/2606.05728"
+license: MIT
+date-released: 2026-06-04
+preferred-citation:
+  type: article
+  title: "DiG-Plan: Mitigating Early Commitment for Tool-Graph Planning via Diffusion Guidance"
+  authors:
+    - family-names: Li
+      given-names: Yansi
+    - family-names: Zhang
+      given-names: Zhuosheng
+  year: 2026
+  journal: "arXiv preprint arXiv:2606.05728"
+  url: "https://arxiv.org/abs/2606.05728"

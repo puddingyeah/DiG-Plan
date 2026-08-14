@@ -1,0 +1,12 @@
+-r requirements-analysis.txt
+
+# Dream's official reference environment.
+torch==2.5.1
+transformers==4.46.2
+accelerate==1.1.1
+
+# Data preparation, progress reporting, and retriever baseline.
+pandas==2.3.2
+pyarrow==21.0.0
+tqdm==4.67.1
+sentence-transformers==3.3.1

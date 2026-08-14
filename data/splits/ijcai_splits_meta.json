@@ -1,0 +1,28 @@
+{
+  "data_path": "data/taskbench/taskbench_hf_improved_flattened.jsonl",
+  "filtered_total": 6496,
+  "filtered_type_counts": {
+    "chain": 2936,
+    "dag": 645,
+    "single": 2915
+  },
+  "note": "Train IDs are sampled from filtered pool excluding test IDs; train focuses on chain/dag.",
+  "remaining_type_counts_after_test": {
+    "chain": 2769,
+    "dag": 478,
+    "single": 2748
+  },
+  "seed": 42,
+  "test_found_in_filtered": 501,
+  "test_ids_path": "data/ids_500.txt",
+  "test_total": 501,
+  "test_type_counts": {
+    "chain": 167,
+    "dag": 167,
+    "single": 167
+  },
+  "train_chain": 450,
+  "train_dag": 450,
+  "train_ids_path": "data/splits/ijcai_train_ids_chain450_dag450_seed42.txt",
+  "train_total": 900
+}
